@@ -1,1 +1,3 @@
-# Project-Kasir
+## login
+user: admin
+pass: root
